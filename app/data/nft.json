@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "token_id": "1",
+      "contract_address": "0xabc123def456ghi789jklmnop1234567890abcdef",
+      "name": "CryptoPunk #123",
+      "description": "A unique CryptoPunk NFT.",
+      "image_url": "https://cryptopunks.app/images/punks/123.png",
+      "owner": "0xabcdef1234567890abcdef1234567890abcdef12",
+      "metadata": {
+        "attributes": [
+          { "trait_type": "Background", "value": "Blue" },
+          { "trait_type": "Hat", "value": "Cap" },
+          { "trait_type": "Eyes", "value": "Red Glasses" }
+        ]
+      },
+      "price": "3.5 ETH",
+      "last_sale": {
+        "date": "2023-12-10",
+        "price": "3 ETH"
+      },
+      "sold": true,
+      "sale_details": {
+        "date": "2023-12-10",
+        "price": "3.5 ETH",
+        "buyer": {
+          "name": "Mike Johnson",
+          "wallet_address": "0x9876543210fedcba9876543210fedcba98765432",
+          "profile_image": "https://example.com/buyer/mike_johnson.png"
+        }
+      },
+      "creators": [
+        {
+          "name": "John Doe",
+          "wallet_address": "0xcreator1234567890abcdef1234567890abcdef12",
+          "profile_image": "https://example.com/creator/john_doe.png"
+        },
+        {
+          "name": "Jane Smith",
+          "wallet_address": "0xcreator234567890abcdef1234567890abcdef12",
+          "profile_image": "https://example.com/creator/jane_smith.png"
+        }
+      ],
+      "networks": ["Ethereum", "Polygon"]
+    }
+  
+      
+  ]
+  
